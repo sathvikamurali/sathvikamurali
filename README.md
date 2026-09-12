@@ -8,8 +8,6 @@
 
 I'm an AI & Data Science undergraduate interested in building practical solutions at the intersection of Artificial Intelligence, Data Engineering, and Software Development. My projects span Generative AI and RAG systems, machine learning, real-time data processing, computer vision, blockchain, and full-stack applications. I enjoy turning technical concepts into functional, real-world applications and continuously exploring new technologies through hands-on projects and research.
 
----
-
 ### Connect With Me
 
 <div align="center">
@@ -35,8 +33,6 @@ I'm an AI & Data Science undergraduate interested in building practical solution
 </table>
 
 </div>
-
----
 
 ### Tech Stack
 
